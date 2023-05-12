@@ -2,4 +2,5 @@
 2. Sistem Operasi
 3. Basis Data
 4. Python
-5. Wireless     
+5. Wireless
+6. Statistika
